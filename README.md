@@ -1,3 +1,3 @@
 # Hello World
 
-Repository for getting formiliar wth git and github
+Repository for getting formiliar wth git and github!
